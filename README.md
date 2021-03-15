@@ -1,8 +1,8 @@
 # ProjectApp
 Which app to choose?
-	▪ Bebeer
-	▪ House - choose color on walls  - floor - doors
-	▪ Find friends
+Bebeer
+House - choose color on walls  - floor - doors
+Find friends
 
 
 Bebeer
@@ -14,11 +14,11 @@ With a camera function, this app should allow the customer to take a picture of 
 
 MoSCoW Prioritization BeBeer - buy the right beer
 Must have:
-	- Camera function
-	- Upload picture
-	- Rating function - with option of a text description
-	- Report to a friend
-	- Search bar
+Camera function 
+Upload picture
+Rating function - with option of a text description
+Report to a friend
+Search bar
 	
 Should have:
 	- A function called 'my beers' to be able to see which beers you have searched for
