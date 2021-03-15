@@ -9,7 +9,7 @@ Find friends
 
 
 
-Bebeer
+///////////Bebeer////////////
 
 A brief description of the application and the motivation behind it.
 
@@ -43,10 +43,15 @@ Will not have: A function to see what meal matches the beer
 
 
 
+.
+.
+.
+.
+..
 
 
 
-Wall painting
+////////Wall painting////////
 
 A brief description of the application and the motivation behind it.
 
@@ -73,10 +78,15 @@ Should have: A lot of different colors
 Could have: A function to also paint cabinets, furniture or the like
 
 Will not have: The price for the painting
+.
+.
+.
+.
+.
 
 
 
-Find friends
+//////////Find friends////////
 
 A brief description of the application and the motivation behind it.
 
