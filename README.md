@@ -9,7 +9,9 @@ Find friends
 
 
 Bebeer
+
 A brief description of the application and the motivation behind it.
+
 Bebeer needs to be an online beer marketplace run by a community. Bebeer's unique beer shopping experience will use community information to suggest personalized beer recommendations, making the beer experience and beer shopping fun, accessible and effortless for beer drinkers of all levels.
 
 With a camera function, this app should allow the customer to take a picture of a beer in a supermarket. After the picture has been taken, the app must recognize the beer and come up with different people's opinions about the exact beer they have taken a picture of.
@@ -17,10 +19,15 @@ With a camera function, this app should allow the customer to take a picture of 
 
 MoSCoW Prioritization BeBeer - buy the right beer
 Must have:
+
 Camera function 
+
 Upload picture
+
 Rating function - with option of a text description
+
 Report to a friend
+
 Search bar
 	
 Should have:
