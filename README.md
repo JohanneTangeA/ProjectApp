@@ -18,7 +18,10 @@ Bebeer needs to be an online beer marketplace run by a community. Bebeer's uniqu
 With a camera function, this app should allow the customer to take a picture of a beer in a supermarket. After the picture has been taken, the app must recognize the beer and come up with different people's opinions about the exact beer they have taken a picture of.
 
 
+
+
 MoSCoW Prioritization BeBeer - buy the right beer
+
 Must have:
 
 Camera function 
@@ -37,6 +40,8 @@ Could have: A function that shows which beers you might like / a function that s
 	
 Will not have: A function to see what meal matches the beer
 	
+
+
 
 
 
